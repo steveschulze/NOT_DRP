@@ -1,6 +1,6 @@
-# Collection of scripts to rapidly reduce NOT/ALFOSC spectra
+# NOT/ALFOSC Data Reduction Pipeline
 
-Originally developed by Tassio Schweyer. Since then modified. Clone of [https://gitlab.com/steveschulze/pypeit_alfosc_env](https://gitlab.com/steveschulze/pypeit_alfosc_env).
+This data reduction pipeline is set on top of [PypeIt](https://pypeit.readthedocs.io/en/develop/index.html). It was originally developed by [Tassio Schweyer](https://gitlab.com/welterde/pypeit_alfosc_env) and since then modified and expanded.
 
 # Installation
 
