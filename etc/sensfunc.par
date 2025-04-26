@@ -1,0 +1,22 @@
+[sensfunc]
+    algorithm = UVIS
+    mask_hydrogen_lines = True
+    mask_helium_lines = True
+    hydrogen_mask_wid = 5.0
+    polyorder=11
+    samp_fact = 1.
+    #extrap_blu = 0.3
+    #extrap_red = 0.5
+    [[UVIS]]
+        std_file = None
+        std_obj_id = None
+        sensfunc = None
+        extinct_correct = True
+        telluric_correct = False
+        telluric = False
+        polycorrect = True
+        polyfunc = False
+        nresln = 10
+        resolution = 500
+        trans_thresh = 0.95
+    [[IR]]
