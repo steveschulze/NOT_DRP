@@ -1,4 +1,6 @@
-Clone of [https://gitlab.com/steveschulze/pypeit_alfosc_env](https://gitlab.com/steveschulze/pypeit_alfosc_env).
+# Collection of scripts to rapidly reduce NOT/ALFOSC spectra
+
+Originally developed by Tassio Schweyer. Since then modified. Clone of [https://gitlab.com/steveschulze/pypeit_alfosc_env](https://gitlab.com/steveschulze/pypeit_alfosc_env).
 
 # Installation
 
